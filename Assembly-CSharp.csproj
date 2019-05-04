@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CriaOnclickEmObjeto.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ARBuilder.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ARCameraBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ARSceneBehaviour.cs" />
@@ -62,6 +63,7 @@
      <Compile Include="Assets\EasyAR\Scripts\EasyARBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ImageTargetBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ImageTrackerBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\LDDE.cs" />
      <Compile Include="Assets\EasyAR\Scripts\LoadScene.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ObjectTargetBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ObjectTrackerBehaviour.cs" />
@@ -70,7 +72,7 @@
      <Compile Include="Assets\EasyAR\Scripts\RecorderBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\RenderCameraBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
-     <Compile Include="Assets\WebsiteButton.cs" />
+     <Compile Include="Assets\MudarTexto.cs" />
      <None Include="Assets\EasyAR\doc\readme.en.txt" />
      <None Include="Assets\EasyAR\doc\changelog.en.txt" />
      <None Include="Assets\EasyAR\doc\readme.cn.txt" />
@@ -78,19 +80,19 @@
      <None Include="Assets\EasyAR\doc\changelog.cn.txt" />
      <None Include="Assets\EasyAR\Resources\Shaders\RealityPlane.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Hotel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/Hotel/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Hotel/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Hotel/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>D:/Hotel/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -294,16 +296,16 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.12f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="EasyAR.Unity">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+ <HintPath>D:/Hotel/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Heaven/Desktop/Hotel/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/Hotel/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
