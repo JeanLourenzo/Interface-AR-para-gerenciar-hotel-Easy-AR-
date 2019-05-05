@@ -63,7 +63,6 @@
      <Compile Include="Assets\EasyAR\Scripts\EasyARBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ImageTargetBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ImageTrackerBehaviour.cs" />
-     <Compile Include="Assets\EasyAR\Scripts\LDDE.cs" />
      <Compile Include="Assets\EasyAR\Scripts\LoadScene.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ObjectTargetBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\ObjectTrackerBehaviour.cs" />
@@ -72,6 +71,7 @@
      <Compile Include="Assets\EasyAR\Scripts\RecorderBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\RenderCameraBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
+     <Compile Include="Assets\LDDECanvas.cs" />
      <Compile Include="Assets\MudarTexto.cs" />
      <None Include="Assets\EasyAR\doc\readme.en.txt" />
      <None Include="Assets\EasyAR\doc\changelog.en.txt" />
