@@ -176,8 +176,8 @@ using UnityEngine.UI;
         public String Busca(T nome)
         {
             
-        String fail = "fail";
-        String sucess = "sucess";
+        String fail = "Nome não enntrado.";
+        String sucess = "Encontrado.";
 
         //string local = @"/sdcard/LDDE.txt";
          string local = @"c:\temp\LDDE.txt";

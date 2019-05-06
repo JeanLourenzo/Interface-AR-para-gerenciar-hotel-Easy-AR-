@@ -73,6 +73,7 @@
      <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
      <Compile Include="Assets\GetAndSetText.cs" />
      <Compile Include="Assets\LDDECanvas.cs" />
+     <Compile Include="Assets\LDE_Checar.cs" />
      <Compile Include="Assets\MudarTexto.cs" />
      <Compile Include="Assets\Painel2.cs" />
      <Compile Include="Assets\Painel3.cs" />
