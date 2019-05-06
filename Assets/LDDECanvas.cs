@@ -9,7 +9,14 @@ using UnityEngine.UI;
     public class LDDECanvas : MonoBehaviour
 
     {
-        public Text TextoMostrado = null;
+        public Text TextoMostrado;
+        public GameObject Painel2;
+        public GameObject Painel3;
+        public InputField nome;
+        public InputField endereco;
+        public InputField email;
+        public InputField busca;
+
             
         public void Main(int qual)
         {
@@ -21,16 +28,38 @@ using UnityEngine.UI;
             // Mostrar no Painel do Canvas Principal
             
             if(qual == 1){
-                Tudo.Inserir("May");
-                TextoMostrado.text = "May";
+                Tudo.Inserir(nome.text);
+                TextoMostrado.text = nome.text; 
+
+                if(Painel2 != null)
+                {
+                    bool isActive = Painel2.activeSelf;
+                    Painel2.SetActive(!isActive);
+                }
+
             }
             if(qual == 2){
-                TextoMostrado.text = (  Tudo.Busca("May") );
+
+                TextoMostrado.text = Tudo.Busca(busca.text);
+
+                if(Painel3 != null)
+                {
+                    bool isActive = Painel3.activeSelf;
+                    Painel3.SetActive(!isActive);
+                }
             }
             if(qual == 3){
                 Tudo.Remover("May");
                 TextoMostrado.text = "Cancelado";
             }
+
+            if(qual == 4){
+               
+                bool isActive = Painel2.activeSelf;
+                    Painel2.SetActive(!isActive);
+            }
+
+            
    
          /*  
             Console.Write("Digite seu nome: ");
@@ -90,8 +119,6 @@ using UnityEngine.UI;
             }        
         Gravar();
         }
-
-    
 
 
         //Gravar no Arquivo;

@@ -71,8 +71,11 @@
      <Compile Include="Assets\EasyAR\Scripts\RecorderBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\RenderCameraBehaviour.cs" />
      <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
+     <Compile Include="Assets\GetAndSetText.cs" />
      <Compile Include="Assets\LDDECanvas.cs" />
      <Compile Include="Assets\MudarTexto.cs" />
+     <Compile Include="Assets\Painel2.cs" />
+     <Compile Include="Assets\Painel3.cs" />
      <None Include="Assets\EasyAR\doc\readme.en.txt" />
      <None Include="Assets\EasyAR\doc\changelog.en.txt" />
      <None Include="Assets\EasyAR\doc\readme.cn.txt" />
