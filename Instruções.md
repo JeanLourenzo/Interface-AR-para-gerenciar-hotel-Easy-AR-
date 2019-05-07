@@ -2,8 +2,8 @@
 
 Foram utilizados:
 
-Unity version 2018.3.12f1
-EasyAR SDK version 2.3.0
+Unity versão 2018.3.12f1
+EasyAR SDK versão 2.3.0
 
 Instruções:
 
