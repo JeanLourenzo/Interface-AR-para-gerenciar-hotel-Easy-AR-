@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Heaven/Desktop/novo3.apk
+C:/Users/Heaven/Desktop/fin1.apk
 SceneListBegin?
 Assets/Scenes/TelaPrincipal.unity
 SceneListEnd?
@@ -115,6 +115,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+b295313ad666cca9270d8465b9ee1ff9 Assembly-CSharp.dll:.LDDECanvas
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:EasyAR.ARSceneTrackerBehaviour
@@ -155,6 +156,7 @@ cd67f3e1e9ccac6db86c1564cea5a827 Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 b9c933e6120577e1be049caef5c11f71 Assembly-CSharp.dll:EasyAR.CloudRecognizerBehaviour
+2170208f31e4eb090313a7f9576c5395 Assembly-CSharp.dll:.GetAndSetText
 9fa67cde54b4ab664cb24335c0fa5065 Assembly-CSharp.dll:EasyAR.ARSceneBehaviour
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f8b139fcde9fda6214245df246415cc7 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
@@ -215,6 +217,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 d0e5039a292ab6440bcd194e582df790 Assembly-CSharp.dll:.CriaOnclickEmObjeto
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
+44f956fa65eeeb85d4a627803212e53d Assembly-CSharp.dll:.Painel3
 628c45456f6742b7bad54e9889573fd6 Assembly-CSharp.dll:EasyAR.ARCameraBehaviour
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
@@ -236,6 +239,7 @@ a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 5fc094978ce3e3591a7500ed380d854a Unity.Analytics.DataPrivacy.dll:UnityEngine.Analytics.DataPrivacyButton
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 b2644acf4f62540a0f626319d031497e Assembly-CSharp.dll:EasyAR.ObjectTargetBehaviour
+1a8b697cb61b2ff4bbf3019a4f404e41 Assembly-CSharp.dll:.LDE_Checar
 3b7edbbcce84bd8b193f99204be55b50 Assembly-CSharp.dll:EasyAR.ImageTargetBehaviour
 1a8b697cb61b2ff4bbf3019a4f404e41 Assembly-CSharp.dll:.MudarTexto
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
@@ -247,6 +251,7 @@ ef66967d1bb7f04115872358fec8f421 EasyAR.Unity.dll:EasyAR.RecorderBaseBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f EasyAR.Unity.dll:EasyAR.RenderCameraBaseBehaviour
 6b270eaf45f51335e359fa04a55f2246 EasyAR.Unity.dll:EasyAR.VideoPlayerBaseBehaviour
 f0d7e81f97235cde57335a7da56d1c51 Assembly-CSharp.dll:EasyAR.ImageTrackerBehaviour
+eaece58c3dee4a453cc04f5a0afdd971 Assembly-CSharp.dll:.Painel2
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f8b139fcde9fda6214245df246415cc7 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
@@ -320,4 +325,3 @@ cd67f3e1e9ccac6db86c1564cea5a827 Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
-1a8b697cb61b2ff4bbf3019a4f404e41 Assembly-CSharp.dll:.LDDECanvas

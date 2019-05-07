@@ -128,7 +128,7 @@ using UnityEngine.UI;
         Aux = Primeiro;
         
            
-            //string local = @"/sdcard/LDDE.txt";
+            //  string local = @"/sdcard/LDDE.txt";
             string local = @"c:\temp\LDDE.txt";
      
             using (StreamWriter sw = File.CreateText(local))
@@ -159,7 +159,7 @@ using UnityEngine.UI;
         //Imprimindo depois de ler o Arquivo;
         public void ImprimirGravado()
         {
-        //string local = @"/sdcard/LDDE.txt";
+       // string local = @"/sdcard/LDDE.txt";
         string local = @"c:\temp\LDDE.txt";
 
         using (StreamReader sr = File.OpenText(local))
@@ -179,7 +179,7 @@ using UnityEngine.UI;
         String fail = "Nome não enntrado.";
         String sucess = "Encontrado.";
 
-        //string local = @"/sdcard/LDDE.txt";
+        //  string local = @"/sdcard/LDDE.txt";
          string local = @"c:\temp\LDDE.txt";
         using (StreamReader sr = File.OpenText(local))
         {
@@ -229,8 +229,7 @@ using UnityEngine.UI;
         No<T> Aux = new No<T>();
         Aux = Primeiro;
 
-       // string local = @"/sdcard/LDDE.txt";
-               
+         // string local = @"/sdcard/LDDE.txt";     
          string local = @"c:\temp\LDDE.txt";
      
             using (StreamWriter sw = File.CreateText(local))
